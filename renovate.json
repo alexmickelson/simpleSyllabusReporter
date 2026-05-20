@@ -8,6 +8,8 @@
     }
   ],
   "kubernetes": {
-    "fileMatch": ["^k8s/.+\\.ya?ml$"]
+    "managerFilePatterns": [
+      "/^k8s/.+\\.ya?ml$/"
+    ]
   }
 }
