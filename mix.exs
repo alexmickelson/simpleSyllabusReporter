@@ -65,7 +65,7 @@ defmodule SnowSeTools.MixProject do
       {:bandit, "~> 1.5"},
       {:ecto_sql, "~> 3.11"},
       {:postgrex, ">= 0.22.0"},
-      {:zoi, "~> 0.18"},
+      {:zoi, "~> 0.19"},
       {:dotenvy, "~> 1.1.1"},
       {:oidcc_plug, "~> 0.4.0"},
       {:dialyxir, "~> 1.4", only: :test, runtime: false},
